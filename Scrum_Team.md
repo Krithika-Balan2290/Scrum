@@ -10,6 +10,6 @@ A Scrum Team needs to be cross functional. A Team needs to contain members with 
 
 There is no hierarchy in a Scrum Team. Every member of the Team is equally important and equally responsible for completing the goals that they have committed to at the beginning of the Sprint. The Team works much better if they are better equipped with the resources to complete their tasks. Also Scrum works better if the teams are in open environments. This enables conversations and interactions among Team members and thus, increases productivity.
 
-[Prev Page]() | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Prdct_bcklogs.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrm_mtng.md)
  
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
