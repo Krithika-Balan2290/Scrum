@@ -109,6 +109,6 @@ The above manifesto was based on twelve principles stated in the Agile Manifesto
 
 Agile methods are best suited for complex systems with volatile requirements. These kind of systems cannot be effectively developed using traditional software development models. Since most software systems today are extremely prone to change, Agile methodologies are now of great import.
 
-[Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Different%20Agile%20Processes)
+[Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Different%20Agile%20Processes.md)
 
 [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
