@@ -12,6 +12,6 @@ At the daily meetings, the scrum master gets a report from each team member on w
 
 A Scrum Master role can be taken up by the team leader, project manager or any other person in a management position. A person in the role of a Scrum Master must be a focused and stubborn person. The role is not appropriate to everyone. A Scrum Master must be able to handle conflict efficiently and be able to speak for and defend the team if necessary. If there are any hindrances to the team’s performance, the Scrum Master is responsible for talking to the appropriate person and getting rid of the hurdles. This way, the Scrum Master will be able to ensure the highest level of performance from his team.
 
-[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Intro_Agile.md) | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Introduction%20to%20Scrum.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Prdct_bcklogs.md)
  
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
