@@ -10,6 +10,6 @@ The Product Backlog is sorted in the order of priority. The top priority require
 
 The Product Owner is the only person who manages and controls the Product Backlog. Whenever a user needs to add a requirements to the backlog or edit an existing requirement in the backlog, he or she has to do it through the Product Owner. The Product Owner may be just one person, not a committee. A committee may be present to advise the Product owner, but the final decision has to be made by the Product Owner. The Product Owner’s decision is final and no one can approach the Scrum Teams and ask them work on a different set of requirements.
 
-[Prev Page](https://github.com/Krithika-Balan2290/Scrum/edit/master/Scrum_Working.md) | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/edit/master/Scrum_Working.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Team.md)
  
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
