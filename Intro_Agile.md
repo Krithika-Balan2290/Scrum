@@ -1,4 +1,4 @@
-#Introduction to Agile
+#Introduction to Agile Methodology
 
 Software development was traditionally based on sequential methods, such as the waterfall method, in which software systems are developed in stages. The software development in these systems proceeded in the following manner:
 
