@@ -60,6 +60,7 @@ In 2001, seventeen developers gathered at a resort in Utah and wrote the Agile M
 >
 >© 2001, the above authors. This declaration may be freely copied in any form, but only in its entirety through this notice. 
 
+
 The above manifesto was based on twelve principles stated in the Agile Manifesto Website as [4]:
 
 > We follow these principles:
@@ -108,4 +109,6 @@ The above manifesto was based on twelve principles stated in the Agile Manifesto
 
 Agile methods are best suited for complex systems with volatile requirements. These kind of systems cannot be effectively developed using traditional software development models. Since most software systems today are extremely prone to change, Agile methodologies are now of great import.
 
-[Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Different%20Agile%20Processes)
+[Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Different%20Agile%20Processes)
+
+[Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
