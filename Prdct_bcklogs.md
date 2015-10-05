@@ -1,0 +1,15 @@
+#Product Backlogs
+
+Ken Schwaber and Mike Beedle define the Product Backlog as an evolving prioritized queue of business and technical functionality that needs to be developed into a system. When a software system is being built using Scrum, the requirements for that particular software system are listed in the Product Backlog. The Product Backlog contains a list of user stories, each of which, is one feature of the system that any one of the stakeholders thinks, is a required functionality. It has a list of features, enhancements functionalities and bug-fixes that need to be implemented in the system. In addition to features of the system, the backlog may also contain certain issues present in the functioning of the system.
+
+Initially, the Product Backlog list in incomplete. It just contains the high level list of features that need to be implemented. These requirements can be obtained through brainstorming sessions with the clients. Initially, there just need to be enough requirements in order to justify the first Sprint. A Sprint can last any duration between a week and a month.
+
+After the first Sprint, the users get a clearer picture of what features they want included in the system and what features are sub-par. Building on this feedback, the Product Backlog can be updated to give the new set of requirements that need to be implemented. The Backlog is dynamic which means that users can add or remove requirements at any point of the development process. The client management may also change the Backlog to include features that would make their organization much more competitive in the global market.
+
+The Product Backlog is sorted in the order of priority. The top priority requirements are implemented first and he lower priority items are retained for later Sprints. Once the users make the list of all the features they want implemented in the system, the product owner assigns a priority to each of them depending on how important each requirement is. Then, he works with the Scrum Master and the Scrum teams to estimate the effort for each item on the Product Backlog. With this information on priority and estimate, the Scrum Master can then select the features that will be implemented in the next Sprint.
+
+The Product Owner is the only person who manages and controls the Product Backlog. Whenever a user needs to add a requirements to the backlog or edit an existing requirement in the backlog, he or she has to do it through the Product Owner. The Product Owner may be just one person, not a committee. A committee may be present to advise the Product owner, but the final decision has to be made by the Product Owner. The Product Owner’s decision is final and no one can approach the Scrum Teams and ask them work on a different set of requirements.
+
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/edit/master/Scrum_Working.md) | [Next Page]()
+ 
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
