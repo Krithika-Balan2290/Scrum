@@ -5,3 +5,7 @@ In the Scrum methodology of project management on the first day of a sprint and 
 The sprint backlog is a list of tasks that the team needs to perform, which were committed to the customer at the time of the planning meeting.
 Additional Scrum artifacts are sprint burndown chart and the release burndown chart. Burndown charts show the amount of work remaining in a sprint or a release. they help the team realize if the sprint is on track or not. it helps the team with the project timelines.
 ![image](http://www.scrum-institute.org/images_scrum/Simple_Burndown_Chart.jpg)
+
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Sprints.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/comparison.md)
+
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
