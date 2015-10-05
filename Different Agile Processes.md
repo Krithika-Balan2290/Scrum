@@ -37,3 +37,6 @@ Scrum is an iterative and incremental model used to manage product development. 
 ##·       Scrumban:
 Scrumban is a hybrid between scrum and Kanban. Teams generally use scrum as a management framework and use it as a way of working, and use Kanban as lens to view and understand the direction in which the project is moving into.
  
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Intro_Agile.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Introduction%20to%20Scrum.md)
+ 
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
