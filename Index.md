@@ -7,7 +7,7 @@
 
 2. [Different Agile Methodologies]()
  
-3. [Introduction to Scrum]()
+3. [Introduction to Scrum](https://github.com/Krithika-Balan2290/Scrum/blob/master/Introduction%20to%20Scrum.md)
 
 4. [How Scrum Works](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Working.md)
 
@@ -21,7 +21,7 @@
  
  4.5. [Sprints](https://github.com/Krithika-Balan2290/Scrum/blob/master/Sprints.md)
  
-5. [Scrum Artifacts]()
+5. [Scrum Artifacts](https://github.com/Krithika-Balan2290/Scrum/blob/master/scrum%20artifact.md)
 
 6. [Scrum over traditional Methods]()
 
