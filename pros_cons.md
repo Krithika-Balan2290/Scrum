@@ -29,6 +29,10 @@
 
 [5] Schwaber, Ken, and Mike Beedle. Agile Software Development with Scrum. Upper Saddle River, NJ: Prentice Hall, 2002. Print.
 
+[6] http://www.mountaingoatsoftware.com/agile/scrum
+
+[7]http://nomad8.com/should-we-choose-agile-or-iterative/
+
 
 [Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/comparison.md) 
 
