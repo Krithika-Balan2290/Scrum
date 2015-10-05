@@ -9,19 +9,19 @@
  
 3. [Introduction to Scrum]()
 
-4. [Scrum Artifacts]()
+4. [How Scrum Works](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Working.md)
 
-5. [How Scrum Works](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Working.md)
-
- 5.1. [Scrum Master](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Working.md)
+ 4.1. [Scrum Master](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Working.md)
  
- 5.2. [Product Backlogs](https://github.com/Krithika-Balan2290/Scrum/blob/master/Prdct_bcklogs.md)
+ 4.2. [Product Backlogs](https://github.com/Krithika-Balan2290/Scrum/blob/master/Prdct_bcklogs.md)
  
- 5.3. [Scrum Team](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Team.md)
+ 4.3. [Scrum Team](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Team.md)
  
- 5.4. [Daily Scrum Meetings](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrm_mtng.md)
+ 4.4. [Daily Scrum Meetings](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrm_mtng.md)
  
- 5.5. [Sprints](https://github.com/Krithika-Balan2290/Scrum/blob/master/Sprints.md)
+ 4.5. [Sprints](https://github.com/Krithika-Balan2290/Scrum/blob/master/Sprints.md)
+ 
+5. [Scrum Artifacts]()
 
 6. [Scrum over traditional Methods]()
 
