@@ -16,6 +16,6 @@
 4.	Changing requirements and short Sprints could result in an extreme project life cycle for developers not used to Scrum. This could cause them to burn out very quickly.
 5.	Daily Scrum meetings last for less than 15 minutes only if the Team members are able to communicate everything they need to convey in a very short span of time. If the Daily Scrum meetings take longer, then they could eat away the developers’ time reducing productivity.
 
-[Prev Page]() 
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/comparison.md) 
 
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
