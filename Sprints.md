@@ -12,6 +12,6 @@ During a Sprint, the amount of work done is constantly measured and this data is
 
 In some cases, a Sprint may be terminated before the entire sprint duration elapses. For example, this could happen if the customer decides that they no longer require the functionality being implemented in that Sprint. Another possibility is that the Scrum Team itself cancels the Sprint before completion. This could happen is the Team realizes that it will not be able to achieve the Sprint goal. The Team could also achieve its goals ahead of time and cancel the rest of the Sprint duration.
 
-[Prev Page]() | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrm_mtng.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/scrum%20artifact.md)
 
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md)
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
