@@ -16,6 +16,20 @@
 4.	Changing requirements and short Sprints could result in an extreme project life cycle for developers not used to Scrum. This could cause them to burn out very quickly.
 5.	Daily Scrum meetings last for less than 15 minutes only if the Team members are able to communicate everything they need to convey in a very short span of time. If the Daily Scrum meetings take longer, then they could eat away the developers’ time reducing productivity.
 
+
+######References:
+
+[1] Gerald M. Weinberg, as quoted in Larman, Craig; Basili, Victor R. (June 2003). "Iterative and Incremental Development: A Brief History". Computer 36 (6): 47–56.
+
+[2] Jim Highsmith (2001). "History: The Agile Manifesto". agilemanifesto.org.
+
+[3] Beck, Kent; et al. (2001). "Manifesto for Agile Software Development". Agile Alliance. agilemanifesto.org
+
+[4] Beck, Kent; et al. (2001). "Principles behind the Agile Manifesto". Agile Alliance
+
+[5] Schwaber, Ken, and Mike Beedle. Agile Software Development with Scrum. Upper Saddle River, NJ: Prentice Hall, 2002. Print.
+
+
 [Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/comparison.md) 
 
  [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md)
