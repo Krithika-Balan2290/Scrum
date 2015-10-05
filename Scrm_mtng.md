@@ -8,6 +8,6 @@ The Daily meetings are held in a room called the Scrum room. The people attendin
 
 The Team members must only repost what they have done since the last meeting, what they plan on doing before the next meeting and what obstacles they have in their way. They need to keep their answers short and to the point. When talking about what they have done since the last meeting, Team members must only specify which problem was tackled and how far they have come with it. They must not elaborate on how they handled the problem and why. The meeting must not go into specifics of design of the solutions. This allows the Scrum Master to keep a limit on the amount of time to allocate for each meeting.
 
-[Prev Page]() | [Next Page]()
+[Prev Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Scrum_Team.md) | [Next Page](https://github.com/Krithika-Balan2290/Scrum/blob/master/Sprints.md)
 
- [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/README.md) 
+ [Back to contents](https://github.com/Krithika-Balan2290/Scrum/blob/master/Index.md) 
