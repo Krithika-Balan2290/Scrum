@@ -5,7 +5,7 @@
 
 1. [Introduction to Agile Methodology](https://github.com/Krithika-Balan2290/Scrum/blob/master/Intro_Agile.md)
 
-2. [Different Agile Methodologies]()
+2. [Different Agile Methodologies](https://github.com/Krithika-Balan2290/Scrum/blob/master/Different%20Agile%20Processes.md)
  
 3. [Introduction to Scrum](https://github.com/Krithika-Balan2290/Scrum/blob/master/Introduction%20to%20Scrum.md)
 
@@ -23,6 +23,6 @@
  
 5. [Scrum Artifacts](https://github.com/Krithika-Balan2290/Scrum/blob/master/scrum%20artifact.md)
 
-6. [Scrum over traditional Methods]()
+6. [Scrum over traditional Methods](https://github.com/Krithika-Balan2290/Scrum/blob/master/comparison.md)
 
 7. [Advantages and Disadvantages of Scrum](https://github.com/Krithika-Balan2290/Scrum/blob/master/pros_cons.md)
